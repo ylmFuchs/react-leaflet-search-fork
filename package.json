@@ -1,5 +1,5 @@
 {
-    "name": "react-leaflet-search",
+    "name": "react-leaflet-search-fork",
     "version": "2.0.2",
     "description": "React component for search lat lng on leaflet",
     "scripts": {
@@ -23,7 +23,7 @@
     "types": "lib/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tumerorkun/react-leaflet-search.git"
+        "url": "https://github.com/ylmFuchs/react-leaflet-search-fork.git"
     },
     "peerDependencies": {
         "leaflet": "^1.6.0 || ^1.9.0",
